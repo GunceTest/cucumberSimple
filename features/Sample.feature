@@ -3,4 +3,4 @@ Feature: Test
 
   Scenario: Go url
     * https://www.google.com.tr adresine gidilir.
-    * 5 saniye beklenir.
+    * 4 saniye beklenir.
