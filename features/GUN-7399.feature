@@ -1,4 +1,4 @@
-Feature: Sample
+Feature: GUN-7399
 
   Scenario: Go url
     * https://www.google.com.tr adresine gidilir.
