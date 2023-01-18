@@ -1,5 +1,4 @@
-Feature: Test
-  bla bla
+Feature: Sample
 
   Scenario: Go url
     * https://www.google.com.tr adresine gidilir.
