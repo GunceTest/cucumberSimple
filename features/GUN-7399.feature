@@ -1,5 +1,5 @@
 Feature: GUN-7399
 
-  Scenario: Go url
+  Scenario: GUN-7399
     * https://www.google.com.tr adresine gidilir.
     * 4 saniye beklenir.
